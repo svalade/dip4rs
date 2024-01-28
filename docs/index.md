@@ -7,12 +7,12 @@ Sébastien Valade ([UNAM](https://svalade.github.io/))
 ## Schedule
 
 ### Introduction 
-* Introduction ([slides](https://raw.githubusercontent.com/svalade/dip4rs/master/lecture/pdfs_2024/dip4rs_00_introduction.pdf))
+* Introduction ([slides](https://raw.githubusercontent.com/svalade/dip4rs/master/lectures/pdfs_2024/dip4rs_00_introduction.pdf))
   
 ### Week 1
-* Lecture: Python ([slides](https://raw.githubusercontent.com/svalade/dip4rs/master/lecture/pdfs_2024/dip4rs_01_lecture.pdf))
-* Tutorial: Python ([notebook](https://github.com/svalade/dip4rs/blob/master/exercise/01/dip4rs_01_python-tutorial.ipynb))
-* Tutorial: Jupyter ([notebook](https://github.com/svalade/dip4rs/blob/master/exercise/01/dip4rs_01_jupyter-tutorial.ipynb))
+* Lecture: Python ([slides](https://raw.githubusercontent.com/svalade/dip4rs/master/lectures/pdfs_2024/dip4rs_01_lecture.pdf))
+* Tutorial: Python ([notebook](https://github.com/svalade/dip4rs/blob/master/exercises/01/dip4rs_01_python-tutorial.ipynb))
+* Tutorial: Jupyter ([notebook](https://github.com/svalade/dip4rs/blob/master/exercises/01/dip4rs_01_jupyter-tutorial.ipynb))
 
 ## Recommended Literature
 * Chuvieco, E. (2010). Teledetección ambiental
