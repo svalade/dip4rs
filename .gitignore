@@ -4,3 +4,5 @@ vendor
 Gemfile.lock
 coverage
 _site
+
+cp_files.sh
