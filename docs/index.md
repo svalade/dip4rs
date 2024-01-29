@@ -11,8 +11,8 @@ Sébastien Valade ([UNAM](https://svalade.github.io/))
 ### Introduction 
 * Introduction ([slides](https://raw.githubusercontent.com/svalade/dip4rs/master/lectures/pdfs_2024/DIP4RS_00_introduction.pdf))
   
-### Week 1
-* Lecture: Python ([slides](https://raw.githubusercontent.com/svalade/dip4rs/master/lectures/pdfs_2024/DIP4RS_01_lecture.pdf))
+### Lecture 01
+* Lecture: Python/Jupyter setup ([slides](https://raw.githubusercontent.com/svalade/dip4rs/master/lectures/pdfs_2024/DIP4RS_01_lecture.pdf))
 * Tutorial: Python ([notebook](https://github.com/svalade/dip4rs/blob/master/exercises/01/DIP4RS_01_python-tutorial.ipynb))
 * Tutorial: Jupyter ([notebook](https://github.com/svalade/dip4rs/blob/master/exercises/01/DIP4RS_01_jupyter-tutorial.ipynb))
 
