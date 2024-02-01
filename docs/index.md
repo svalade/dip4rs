@@ -16,6 +16,12 @@ Sébastien Valade ([UNAM](https://svalade.github.io/))
 * Tutorial: Python ([notebook](https://github.com/svalade/dip4rs/blob/master/exercises/01/DIP4RS_01_python-tutorial.ipynb))
 * Tutorial: Jupyter ([notebook](https://github.com/svalade/dip4rs/blob/master/exercises/01/DIP4RS_01_jupyter-tutorial.ipynb))
 
+### Lecture 02
+* Lecture: Digital Image Basics ([slides](https://raw.githubusercontent.com/svalade/dip4rs/master/lectures/pdfs_2024/DIP4RS_02_lecture.pdf))
+* Tutorial: Numpy ([notebook](https://github.com/svalade/dip4rs/blob/master/exercises/02/DIP4RS_02_numpy-tutorial.ipynb))
+* Exercises: [notebook](https://github.com/svalade/dip4rs/blob/master/exercises/02/DIP4RS_02_exercises.ipynb)
+* Exercises (images): [notebook](https://github.com/svalade/dip4rs/blob/master/exercises/02/images.zip)
+
 ## Recommended Literature
 * Chuvieco, E. (2010). Teledetección ambiental
 * Gonzalez R.C. & Woods, R.E. (2018). Digital Image Processing (4th Ed.)
