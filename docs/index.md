@@ -25,6 +25,7 @@ Sébastien Valade ([UNAM](https://svalade.github.io/))
 ### Lecture 03
 * Lecture: Image Filtering ([slides](https://raw.githubusercontent.com/svalade/dip4rs/master/lectures/pdfs_2024/DIP4RS_03_lecture.pdf))
 * Exercises: [notebook](https://github.com/svalade/dip4rs/blob/master/exercises/03/exercises.ipynb), [images](https://github.com/svalade/dip4rs/blob/master/exercises/03/exercises_images.zip)
+* Exercises (solved): [notebook](https://github.com/svalade/dip4rs/blob/master/exercises/03/exercises_solved-live.ipynb)
 
 ## Recommended Literature
 * Chuvieco, E. (2010). Teledetección ambiental
