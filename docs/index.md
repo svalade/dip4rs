@@ -27,6 +27,10 @@ Sébastien Valade ([UNAM](https://svalade.github.io/))
 * Exercises: [notebook](https://github.com/svalade/dip4rs/blob/master/exercises/03/exercises.ipynb), [images](https://github.com/svalade/dip4rs/blob/master/exercises/03/exercises_images.zip)
 * Exercises (solved): [notebook](https://github.com/svalade/dip4rs/blob/master/exercises/03/exercises_solved-live.ipynb)
 
+### Lecture 04
+* Lecture: Morphology and Segmention ([slides](https://raw.githubusercontent.com/svalade/dip4rs/master/lectures/pdfs_2024/DIP4RS_04_lecture.pdf))
+* Exercises: [notebook](https://github.com/svalade/dip4rs/blob/master/exercises/04/exercises.ipynb)
+
 ## Recommended Literature
 * Chuvieco, E. (2010). Teledetección ambiental
 * Gonzalez R.C. & Woods, R.E. (2018). Digital Image Processing (4th Ed.)
