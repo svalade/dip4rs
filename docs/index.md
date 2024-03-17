@@ -17,7 +17,7 @@ Sébastien Valade ([UNAM](https://svalade.github.io/))
 * Tutorial: Jupyter ([notebook](https://github.com/svalade/dip4rs/blob/master/exercises/01/DIP4RS_01_jupyter-tutorial.ipynb))
 
 ### Lecture 02
-* Lecture: Digital Image Basics ([slides](https://raw.githubusercontent.com/svalade/dip4rs/master/lectures/pdfs_2024/DIP4RS_02_lecture.pdf))
+* Lecture: Digital Image Basics ([slides](https://raw.githubusercontent.com/svalade/dip4rs/master/lectures/pdfs_2024/DIP4RS_02_lecture.pdf)) ([slides extra](https://raw.githubusercontent.com/svalade/dip4rs/master/lectures/pdfs_2024/DIP4RS_02_lecture_extra.pdf))
 * Tutorial: Numpy ([notebook](https://github.com/svalade/dip4rs/blob/master/exercises/02/DIP4RS_02_numpy-tutorial.ipynb))
 * Exercises: [notebook](https://github.com/svalade/dip4rs/blob/master/exercises/02/exercises.ipynb), [images](https://github.com/svalade/dip4rs/blob/master/exercises/02/exercises_images.zip)
 * Exercises (solved): [notebook](https://github.com/svalade/dip4rs/blob/master/exercises/02/exercises_solved-live.ipynb)
