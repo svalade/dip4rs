@@ -32,6 +32,9 @@ Sébastien Valade ([UNAM](https://svalade.github.io/))
 * Exercises: [notebook](https://github.com/svalade/dip4rs/blob/master/exercises/04/exercises.ipynb), [images](https://github.com/svalade/dip4rs/blob/master/exercises/04/exercises_images.zip)
 * Exercises (solved): [notebook](https://github.com/svalade/dip4rs/blob/master/exercises/04/exercises_solved-live.ipynb)
 
+### Partial exam
+* Exam: [notebook](https://github.com/svalade/dip4rs/blob/master/exams/partial_exam/partial-exam.ipynb), [images](https://github.com/svalade/dip4rs/blob/master/exams/partial_exam/partial-exam_images.zip)
+
 ## Recommended Literature
 * Chuvieco, E. (2010). Teledetección ambiental
 * Gonzalez R.C. & Woods, R.E. (2018). Digital Image Processing (4th Ed.)
