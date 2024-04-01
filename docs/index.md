@@ -35,6 +35,9 @@ Sébastien Valade ([UNAM](https://svalade.github.io/))
 ### Partial exam
 * Exam: [notebook](https://github.com/svalade/dip4rs/blob/master/exams/partial_exam/partial-exam.ipynb), [images](https://github.com/svalade/dip4rs/blob/master/exams/partial_exam/partial-exam_images.zip)
 
+### Lecture 05
+* Lecture: Google Earth Engine ([slides](https://raw.githubusercontent.com/svalade/dip4rs/master/lectures/pdfs_2024/DIP4RS_05_lecture.pdf))
+
 ## Recommended Literature
 * Chuvieco, E. (2010). Teledetección ambiental
 * Gonzalez R.C. & Woods, R.E. (2018). Digital Image Processing (4th Ed.)
