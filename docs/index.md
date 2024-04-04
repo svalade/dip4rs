@@ -37,6 +37,7 @@ Sébastien Valade ([UNAM](https://svalade.github.io/))
 
 ### Lecture 05
 * Lecture: Google Earth Engine ([slides](https://raw.githubusercontent.com/svalade/dip4rs/master/lectures/pdfs_2024/DIP4RS_05_lecture.pdf))
+* Exercises: [notebook](https://github.com/svalade/dip4rs/blob/master/exercises/05/exercises.ipynb)
 
 ## Recommended Literature
 * Chuvieco, E. (2010). Teledetección ambiental
