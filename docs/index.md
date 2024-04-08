@@ -36,7 +36,11 @@ Sébastien Valade ([UNAM](https://svalade.github.io/))
 * Exam: [notebook](https://github.com/svalade/dip4rs/blob/master/exams/partial_exam/partial-exam.ipynb), [images](https://github.com/svalade/dip4rs/blob/master/exams/partial_exam/partial-exam_images.zip)
 
 ### Lecture 05
-* Lecture: Google Earth Engine ([slides](https://raw.githubusercontent.com/svalade/dip4rs/master/lectures/pdfs_2024/DIP4RS_05_lecture.pdf))
+* Lecture: GEE Introduction ([slides](https://raw.githubusercontent.com/svalade/dip4rs/master/lectures/pdfs_2024/DIP4RS_05_lecture.pdf))
+* Exercises: [notebook](https://github.com/svalade/dip4rs/blob/master/exercises/05/exercises.ipynb)
+
+### Lecture 06
+* Lecture: GEE Image Manipulation ([slides](https://raw.githubusercontent.com/svalade/dip4rs/master/lectures/pdfs_2024/DIP4RS_05_lecture.pdf))
 * Exercises: [notebook](https://github.com/svalade/dip4rs/blob/master/exercises/05/exercises.ipynb)
 
 ## Recommended Literature
