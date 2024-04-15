@@ -43,6 +43,10 @@ Sébastien Valade ([UNAM](https://svalade.github.io/))
 * Lecture: GEE Image Manipulation ([slides](https://raw.githubusercontent.com/svalade/dip4rs/master/lectures/pdfs_2024/DIP4RS_06_lecture.pdf))
 * Exercises: [notebook](https://github.com/svalade/dip4rs/blob/master/exercises/06/exercises.ipynb)
 
+### Lecture 07
+* Lecture: GEE Image Classification ([slides](https://raw.githubusercontent.com/svalade/dip4rs/master/lectures/pdfs_2024/DIP4RS_07_lecture.pdf))
+* Exercises: [notebook](https://github.com/svalade/dip4rs/blob/master/exercises/07/exercises.ipynb)
+
 ## Recommended Literature
 * Chuvieco, E. (2010). Teledetección ambiental
 * Gonzalez R.C. & Woods, R.E. (2018). Digital Image Processing (4th Ed.)
