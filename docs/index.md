@@ -55,3 +55,5 @@ Sébastien Valade ([UNAM](https://svalade.github.io/))
 * Chuvieco, E. (2010). Teledetección ambiental
 * Gonzalez R.C. & Woods, R.E. (2018). Digital Image Processing (4th Ed.)
 * Lillesand, T., Kiefer, R. W., & Chipman, J. (2014). Remote sensing and image interpretation.
+* Cardille J. A., et al. (2024). Cloud-Based Remote Sensing with Google Earth Engine
+* Canty M. J. (2019). Image Analysis, Classification and Change Detection in Remote Sensing. CRC Press. 4th Edition
