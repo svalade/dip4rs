@@ -52,7 +52,7 @@ Sébastien Valade ([UNAM](https://svalade.github.io/))
 * Exercises: [notebook](https://github.com/svalade/dip4rs/blob/master/exercises/08/exercises.ipynb)
 
 ### Extra
-* PlanetScope in GEE ([slides](https://raw.githubusercontent.com/svalade/dip4rs/master/lectures/pdfs_2024/DIP4RS_extra_PlanetScope.pdf)) by Dulce Ruiz)
+* PlanetScope in GEE ([slides](https://raw.githubusercontent.com/svalade/dip4rs/master/lectures/pdfs_2024/DIP4RS_extra_PlanetScope.pdf) by Dulce Ruiz)
 
 ## Recommended Literature
 * Chuvieco, E. (2010). Teledetección ambiental
