@@ -48,8 +48,12 @@ Sébastien Valade ([UNAM](https://svalade.github.io/))
 * Exercises: [notebook](https://github.com/svalade/dip4rs/blob/master/exercises/07/exercises.ipynb)
 
 ### Lecture 08
-* Lecture: GEE Change Detection - part 1 ([slides](https://raw.githubusercontent.com/svalade/dip4rs/master/lectures/pdfs_2024/DIP4RS_08_lecture.pdf))
+* Lecture: GEE Change Detection (naive images differencing) ([slides](https://raw.githubusercontent.com/svalade/dip4rs/master/lectures/pdfs_2024/DIP4RS_08_lecture.pdf))
 * Exercises: [notebook](https://github.com/svalade/dip4rs/blob/master/exercises/08/exercises.ipynb)
+
+### Lecture 09
+* Lecture: GEE Timeseries ([slides](https://raw.githubusercontent.com/svalade/dip4rs/master/lectures/pdfs_2024/DIP4RS_09_lecture.pdf))
+* Exercises: [notebook](https://github.com/svalade/dip4rs/blob/master/exercises/09/exercises.ipynb)
 
 ### Extra
 * PlanetScope in GEE ([slides](https://raw.githubusercontent.com/svalade/dip4rs/master/lectures/pdfs_2024/DIP4RS_extra_PlanetScope.pdf) by Dulce Ruiz)
