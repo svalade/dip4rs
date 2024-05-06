@@ -55,6 +55,10 @@ Sébastien Valade ([UNAM](https://svalade.github.io/))
 * Lecture: GEE Timeseries ([slides](https://raw.githubusercontent.com/svalade/dip4rs/master/lectures/pdfs_2024/DIP4RS_09_lecture.pdf))
 * Exercises: [notebook](https://github.com/svalade/dip4rs/blob/master/exercises/09/exercises.ipynb)
 
+### Lecture 10
+* Lecture: GEE Mosaicking and Compositing ([slides](https://raw.githubusercontent.com/svalade/dip4rs/master/lectures/pdfs_2024/DIP4RS_09_lecture.pdf))
+<!-- * Exercises: [notebook](https://github.com/svalade/dip4rs/blob/master/exercises/10/exercises.ipynb) -->
+
 ### Extra
 * PlanetScope in GEE ([slides](https://raw.githubusercontent.com/svalade/dip4rs/master/lectures/pdfs_2024/DIP4RS_extra_PlanetScope.pdf) by Dulce Ruiz)
 
