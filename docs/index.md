@@ -1,12 +1,14 @@
 # Digital Image Processing for Remote Sensing
 
-## Course information
-This class is a general introduction to Digital Image Processing, with focus on remote sensing applications. It is being taught at [UNAM](https://www.unam.mx/) (Universidad Nacional Autónoma de México), as part of the *Licenciatura en Geografía Aplicada* in the [Escuela Nacional de Ciencias de la Tierra](https://www.encit.unam.mx/) (ENCIT).
+## <u>Course information</u>
+This class is a general introduction to Digital Image Processing, with special focus on remote sensing applications using Google Earth Engine (GEE). It was taught at [UNAM](https://www.unam.mx/) (Universidad Nacional Autónoma de México) in 2024, as part of the *Licenciatura en Geografía Aplicada* in the [Escuela Nacional de Ciencias de la Tierra](https://www.encit.unam.mx/) (ENCIT).<br>
 
-## Instructor
+<small>Note: students enrolled in this course had no prior programming knowledge.</small>
+
+## <u>Instructor</u>
 Sébastien Valade ([UNAM](https://svalade.github.io/))
 
-## Schedule
+## <u>Part 1</u>: *fundamentals of Digital Image Processing*
 
 ### Introduction 
 * Introduction ([slides](https://raw.githubusercontent.com/svalade/dip4rs/master/lectures/pdfs_2024/DIP4RS_00_introduction.pdf))
@@ -32,8 +34,7 @@ Sébastien Valade ([UNAM](https://svalade.github.io/))
 * Exercises: [notebook](https://github.com/svalade/dip4rs/blob/master/exercises/04/exercises.ipynb), [images](https://github.com/svalade/dip4rs/blob/master/exercises/04/exercises_images.zip)
 * Exercises (solved): [notebook](https://github.com/svalade/dip4rs/blob/master/exercises/04/exercises_solved-live.ipynb)
 
-### Partial exam
-* Exam: [notebook](https://github.com/svalade/dip4rs/blob/master/exams/partial_exam/partial-exam.ipynb), [images](https://github.com/svalade/dip4rs/blob/master/exams/partial_exam/partial-exam_images.zip)
+## <u>Part 2</u>: *remote sensing applications with Google Earth Engine (GEE)*
 
 ### Lecture 05
 * Lecture: GEE Introduction ([slides](https://raw.githubusercontent.com/svalade/dip4rs/master/lectures/pdfs_2024/DIP4RS_05_lecture.pdf))
@@ -61,8 +62,9 @@ Sébastien Valade ([UNAM](https://svalade.github.io/))
 
 ### Extra
 * PlanetScope in GEE ([slides](https://raw.githubusercontent.com/svalade/dip4rs/master/lectures/pdfs_2024/DIP4RS_extra_PlanetScope.pdf) by Dulce Ruiz)
+* GOES16 in GEE ([notebook1](https://github.com/svalade/dip4rs/blob/master/exercises/GOES/GOES16_ash.ipynb), [notebook2](https://github.com/svalade/dip4rs/blob/master/exercises/GOES/GOES16_eclipse.ipynb) by Santiago Piñón Juárez)
 
-## Recommended Literature
+## <u>Recommended Literature</u>
 * Chuvieco, E. (2010). Teledetección ambiental
 * Gonzalez R.C. & Woods, R.E. (2018). Digital Image Processing (4th Ed.)
 * Lillesand, T., Kiefer, R. W., & Chipman, J. (2014). Remote sensing and image interpretation.
