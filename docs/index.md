@@ -5,6 +5,10 @@ This class is a general introduction to Digital Image Processing, with special f
 
 <small>Note: students enrolled in this course had no prior programming knowledge.</small>
 
+<div style="text-align: center; margin-top: 0;">
+    <img src="featured.jpg" alt="" width="500"/>
+</div>
+
 ## <u>Instructor</u>
 Sébastien Valade ([UNAM](https://svalade.github.io/))
 
