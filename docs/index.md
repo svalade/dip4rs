@@ -74,3 +74,9 @@ Sébastien Valade ([UNAM](https://svalade.github.io/))
 * Lillesand, T., Kiefer, R. W., & Chipman, J. (2014). Remote sensing and image interpretation.
 * Cardille J. A., et al. (2024). Cloud-Based Remote Sensing with Google Earth Engine
 * Canty M. J. (2019). Image Analysis, Classification and Change Detection in Remote Sensing. CRC Press. 4th Edition
+
+### Update 2025
+An introduction to GEE was given in 2025 at UNAM, as part of the course *Percepción remota aplicada a LiDAR y Drones* (*Posgrado en Ciencias de la Tierra*).
+* Lecture 01
+  - Lecture: GEE Introduction ([slides](https://raw.githubusercontent.com/svalade/dip4rs/master/lectures/pdfs_2025/Lecture-01_GEE-intro_compressed.pdf))
+  - Exercises: [notebook](https://github.com/svalade/dip4rs/blob/master/exercises/05/exercises.ipynb)
