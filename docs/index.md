@@ -1,9 +1,10 @@
 # Digital Image Processing for Remote Sensing
 
 ## <u>Course information</u>
-This class is a general introduction to Digital Image Processing, with special focus on remote sensing applications using Google Earth Engine (GEE). It was taught at [UNAM](https://www.unam.mx/) (Universidad Nacional Autónoma de México) in 2024, as part of the *Licenciatura en Geografía Aplicada* in the [Escuela Nacional de Ciencias de la Tierra](https://www.encit.unam.mx/) (ENCIT).<br>
+This class is a general introduction to Digital Image Processing, with special focus on remote sensing applications using Google Earth Engine (GEE). It was first taught at [UNAM](https://www.unam.mx/) (Universidad Nacional Autónoma de México) in 2024, as part of the *Licenciatura en Geografía Aplicada* in the [Escuela Nacional de Ciencias de la Tierra](https://www.encit.unam.mx/) (ENCIT).<br>
 
-<small>Note: students enrolled in this course had no prior programming knowledge.</small>
+<small>Note: students enrolled in this course had no prior programming knowledge.</small>  
+<small>Note: some slides have been updated in 2025 (see section below).</small>
 
 <div style="text-align: center; margin-top: 0;">
     <img src="featured.jpg" alt="" width="500"/>
@@ -76,7 +77,7 @@ Sébastien Valade ([UNAM](https://svalade.github.io/))
 * Canty M. J. (2019). Image Analysis, Classification and Change Detection in Remote Sensing. CRC Press. 4th Edition
 
 ## <u>Update 2025</u>
-An short introduction to GEE was given in 2025 at UNAM, as part of the master course *Percepción remota aplicada a LiDAR y Drones* (*Posgrado en Ciencias de la Tierra*).
+An short introduction to GEE was given in 2025 at UNAM, as part of the master course *Percepción remota aplicada a LiDAR y Drones* (Posgrado en Ciencias de la Tierra).
 * Lecture 01
   - Lecture: GEE Introduction ([slides](https://raw.githubusercontent.com/svalade/dip4rs/master/lectures/pdfs_2025/Lecture-01_GEE-intro_compressed.pdf))
   - Exercises: [notebook](https://github.com/svalade/dip4rs/blob/master/exercises/05/exercises.ipynb)
