@@ -78,6 +78,11 @@ Sébastien Valade ([UNAM](https://svalade.github.io/))
 
 ## <u>Update 2025</u>
 An short introduction to GEE was given in 2025 at UNAM, as part of the master course *Percepción remota aplicada a LiDAR y Drones* (Posgrado en Ciencias de la Tierra).
+
 * Lecture 01
-  - Lecture: GEE Introduction ([slides](https://raw.githubusercontent.com/svalade/dip4rs/master/lectures/pdfs_2025/Lecture-01_GEE-intro_compressed.pdf))
-  - Exercises: [notebook](https://github.com/svalade/dip4rs/blob/master/exercises/05/exercises.ipynb)
+  - Lecture: GEE Introduction ([slides](https://raw.githubusercontent.com/svalade/dip4rs/master/2025/lectures/Lecture-01_GEE-intro_compressed.pdf))
+  - Exercises: [notebook](https://github.com/svalade/dip4rs/blob/master/2025/exercises/Lecture-01_GEE-intro.ipynb)
+  
+* Lecture 02
+  - Lecture: GEE Image Manipulation ([slides](https://raw.githubusercontent.com/svalade/dip4rs/master/2025/lectures/Lecture-02_GEE-image-manipulation_compressed.pdf))
+  - Exercises: [notebook](https://github.com/svalade/dip4rs/blob/master/2025/exercises/Lecture-02_GEE-image-manipulation.ipynb)
